@@ -1,0 +1,6 @@
+# jupyter
+.ipynb*
+
+# input files
+input/*.csv
+input/*.7z
